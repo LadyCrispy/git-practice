@@ -1,0 +1,4 @@
+Nombre: Cristina
+Edad: 24
+Color favorito: Naranja
+Fruta: Fresa
