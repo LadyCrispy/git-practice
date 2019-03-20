@@ -1,4 +1,4 @@
 Nombre: Cristina
-Edad: 24
+Fecha de nacimiento: 17/05/94
 Color favorito: Naranja
 Fruta: Fresa
